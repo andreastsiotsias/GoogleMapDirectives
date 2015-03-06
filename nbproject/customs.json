@@ -1,0 +1,12 @@
+{
+    "elements": {
+        "app-map": {
+            "attributes": {
+                "center": {},
+                "style": {},
+                "markers": {}
+            }
+        }
+    },
+    "attributes": {}
+}
